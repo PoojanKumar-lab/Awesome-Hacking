@@ -10,6 +10,7 @@ Your [contributions](contributing.md) are always welcome !
 
 Repository | Description
 ---- | ----
+[ABC PROXY](https://www.abcproxy.com/) 			| Ethical Proxies and AI /ML-Driven Web Scraping API
 [Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | List of resources which help during asset discovery phase of a security assessment engagement
