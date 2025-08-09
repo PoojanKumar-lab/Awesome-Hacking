@@ -30,3 +30,4 @@ This resource was made by the developers and hackers alike! We appreciate and re
 - [ReadmeCritic](https://github.com/ReadmeCritic)
 - [Yakup Ateş](https://github.com/y-ates)
 - [Alan Chang](https://github.com/tcode2k16)
+- [PoojanKumar](https://github.com/PoojanKumar-lab)
